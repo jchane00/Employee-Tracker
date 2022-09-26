@@ -14,6 +14,7 @@ In order to use this application install the following dependencies: mysql, inqu
 -[Images](#images)
 
 ## Video Link
+[Walkthrough Video](https://drive.google.com/file/d/1wn__aWdjOpzZ_dl74NU9WKMGm7C_M02Y/view)
 
 ## Images
  ```md
