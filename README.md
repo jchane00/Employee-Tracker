@@ -9,15 +9,15 @@ In order to use this application install the following dependencies: mysql, inqu
 
 ## Table of Contents
 
--[How to Use](#how-to-use)
--[Video Link](#video-link)
--[Images](#images)
+-[How to Use](#how-to-use),
+-[Video Link](#video-link),
+-[Images](#images)npm
 
 ## Video Link
 [Walkthrough Video](https://drive.google.com/file/d/1wn__aWdjOpzZ_dl74NU9WKMGm7C_M02Y/view)
 
 ## Images
  ```md
-    ![Employee Tracker](assets/images/screenshot.png)
+    ![Employee Tracker](assets/images/Screenshot.png)
     ```
 
