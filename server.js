@@ -208,12 +208,12 @@ function updateEmployee() {
         {
             type: "input",
             name: "selectRole",
-            message: "Which role do you want to assign the selected employee:"
+            message: "Select the employees role."
         },
         {
             type: "input",
             name: "selectEmployee",
-            message: "Which employee's role do you want to update:"
+            message: "Which employee would you like to update?"
         }
     ])
     then(function (answer) { 
