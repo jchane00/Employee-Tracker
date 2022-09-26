@@ -19,3 +19,4 @@ In order to use this application install the following dependencies: mysql, inqu
  ```md
     ![Employee Tracker](assets/images/screenshot.png)
     ```
+
