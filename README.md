@@ -10,7 +10,7 @@ In order to use this application install the following dependencies: mysql, inqu
 
 ## Table of Contents
 
-1. [How to Use](#how-to-use);
+1. [How to Use](#how-to-use)
 2. [Video Link](#video-link)
 3. [Images](#images)
 
@@ -20,4 +20,4 @@ In order to use this application install the following dependencies: mysql, inqu
 
 ## Images
 
-    ![Employee Tracker](assets/images/Screenshot.png)
+![Employee Tracker](assets/images/Screenshot.png)
